@@ -1,4 +1,6 @@
+#folders to ignore
 node_modules
 config
 
+#files to ignore
 keys.js
